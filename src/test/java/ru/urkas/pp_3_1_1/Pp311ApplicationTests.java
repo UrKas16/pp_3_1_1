@@ -1,10 +1,10 @@
-package ru.urkas.pp_3_3_1;
+package ru.urkas.pp_3_1_1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Pp331ApplicationTests {
+class Pp311ApplicationTests {
 
 	@Test
 	void contextLoads() {

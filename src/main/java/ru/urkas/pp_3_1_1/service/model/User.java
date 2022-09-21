@@ -1,4 +1,4 @@
-package ru.urkas.pp_3_3_1.model;
+package ru.urkas.pp_3_1_1.service.model;
 
 import javax.persistence.*;
 

@@ -1,6 +1,6 @@
-package ru.urkas.pp_3_3_1.service;
+package ru.urkas.pp_3_1_1.service;
 
-import ru.urkas.pp_3_3_1.model.User;
+import ru.urkas.pp_3_1_1.service.model.User;
 
 import java.util.List;
 

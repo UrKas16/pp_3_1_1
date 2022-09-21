@@ -1,8 +1,8 @@
-package ru.urkas.pp_3_3_1.repository;
+package ru.urkas.pp_3_1_1.repository;
 
 import java.util.List;
 
-import ru.urkas.pp_3_3_1.model.User;
+import ru.urkas.pp_3_1_1.service.model.User;
 
 public interface UserDao {
     void saveUser(User user);

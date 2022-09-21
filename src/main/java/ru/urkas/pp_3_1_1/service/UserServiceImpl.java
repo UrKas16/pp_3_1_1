@@ -1,10 +1,10 @@
-package ru.urkas.pp_3_3_1.service;
+package ru.urkas.pp_3_1_1.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.urkas.pp_3_3_1.model.User;
-import ru.urkas.pp_3_3_1.repository.UserDao;
+import ru.urkas.pp_3_1_1.service.model.User;
+import ru.urkas.pp_3_1_1.repository.UserDao;
 
 import java.util.List;
 
